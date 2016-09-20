@@ -1,9 +1,9 @@
-# phantomjs-2.1.1-linux-win-x86
+# phantomjs-2.1.1-linux-win-x64
 
 ```json
 {
   "require" : {
-    "fzizmann/phantomjs-linux-win-x86": "2.1.1"
+    "fzizmann/phantomjs-linux-win-x64": "2.1.1"
   }
 }
 ```
