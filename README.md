@@ -3,7 +3,7 @@
 ```json
 {
   "require" : {
-    "FriedrichZizmann/phantomjs-linux-win-x86": "2.1.1"
+    "fzizmann/phantomjs-linux-win-x86": "2.1.1"
   }
 }
 ```
