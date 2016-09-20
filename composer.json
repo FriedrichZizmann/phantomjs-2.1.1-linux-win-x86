@@ -1,5 +1,5 @@
 {
-    "name": "FriedrichZizmann/phantomjs-2.1.1-linux-win-x86",
+    "name": "fzizmann/phantomjs-2.1.1-linux-win-x86",
     "description": "PhantomJS static linked binary for 64 bit linux and windows systems.",
     "keywords": ["phantomjs", "binary", "win", "linux", "x86"],
     "license": "MIT",
