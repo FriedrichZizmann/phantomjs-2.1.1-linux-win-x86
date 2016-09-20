@@ -1,0 +1,20 @@
+{
+    "name": "FriedrichZizmann/phantomjs-2.1.1-linux-win-x86",
+    "description": "PhantomJS static linked binary for 64 bit linux and windows systems.",
+    "keywords": ["phantomjs", "binary", "win", "linux", "x86"],
+    "license": "BSD-2-Clause",
+    "homepage": "http://phantomjs.org/download.html",
+    "authors": [
+        {
+            "name": "Friedrich Zizmann",
+            "email": "friedrich.zizmann+github-phantomjs@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/phantomjs.exe",
+        "bin/phantomjs"
+    ],
+}
