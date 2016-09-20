@@ -16,5 +16,5 @@
     "bin": [
         "bin/phantomjs.exe",
         "bin/phantomjs"
-    ],
+    ]
 }
