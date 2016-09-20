@@ -1,7 +1,7 @@
 {
-    "name": "fzizmann/phantomjs-2.1.1-linux-win-x86",
+    "name": "fzizmann/phantomjs-2.1.1-linux-win-x64",
     "description": "PhantomJS static linked binary for 64 bit linux and windows systems.",
-    "keywords": ["phantomjs", "binary", "win", "linux", "x86"],
+    "keywords": ["phantomjs", "binary", "win", "linux", "x64"],
     "license": "MIT",
     "homepage": "http://phantomjs.org/download.html",
     "authors": [
